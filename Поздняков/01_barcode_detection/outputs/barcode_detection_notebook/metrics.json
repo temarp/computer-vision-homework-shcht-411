@@ -1,0 +1,8 @@
+{
+  "images": 76,
+  "mean_iou": 0.872691705266441,
+  "median_iou": 0.9160507861454377,
+  "min_iou": 0.11632991754695608,
+  "images_iou_at_least_0_8": 68,
+  "fraction_iou_at_least_0_8": 0.8947368421052632
+}
